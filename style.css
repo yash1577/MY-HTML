@@ -1,4 +1,4 @@
-h1
+.t1
 {
 
     text-decoration: dotted;
@@ -8,7 +8,7 @@ h1
     font-size: 60px;
     text-shadow: 0cqh;
     text-decoration: dotted;
-    font-style: italic;
+    /* font-style: italic; */
     background-color: aqua;
     /* 
     border-width: 5px;
@@ -17,10 +17,22 @@ h1
     border: 2px solid red;
     height: 200px;
     width: 400px;
-    text-align: center;
+    text-align: left;
     border-radius:10px;               /* make edges curve */
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
 
 }
+
+
+#t2
+{
+ color: chartreuse;
+}
+
 p
 {
     text-decoration: dotted;
