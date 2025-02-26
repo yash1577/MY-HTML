@@ -1,0 +1,15 @@
+#container{
+ color: red;
+ display: flex ;
+ justify-content: center;
+ background-color: aqua;
+ height: 150px;
+ align-items: center;           /* display at centre */
+ gap: 5%;  /*space btw text which is align at center */
+} 
+
+.link{
+    display: flex;
+    gap: 100px;
+    list-style: none;
+}
